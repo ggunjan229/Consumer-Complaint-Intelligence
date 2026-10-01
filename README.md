@@ -1,6 +1,6 @@
 # Consumer-Complaint-Intelligence
 
-Dataset for [Consumer Complaint Intelligence]
+Dataset for Consumer Complaint Intelligence
 
 **Source:** This dataset was originally collected from the [Consumer Financial Protection Bureau (CFPB) Public Data Inventory](https://www.consumerfinance.gov/data-research/consumer-complaints/).
 
