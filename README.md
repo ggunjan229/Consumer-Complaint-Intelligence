@@ -1,7 +1,7 @@
 # Consumer Complaint Intelligence System (CFPB)
 ### Enterprise Data Pipeline, SQL Analytics & Institutional Risk Dashboard
 
-Dataset for Consumer Complaint Intelligence
+**Dataset**
 
 **Source:** This dataset was originally collected from the [Consumer Financial Protection Bureau (CFPB) Public Data Inventory](https://www.consumerfinance.gov/data-research/consumer-complaints/).
 
