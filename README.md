@@ -1,9 +1,9 @@
 # Consumer Complaint Intelligence System (CFPB)
 ### Enterprise Data Pipeline, SQL Analytics & Institutional Risk Dashboard
 
-### Dataset:
+### <u>Dataset:-</u>
 
-**Source:** This dataset was originally collected from the [Consumer Financial Protection Bureau (CFPB) Public Data Inventory](https://www.consumerfinance.gov/data-research/consumer-complaints/).
+**- Source:** This dataset was originally collected from the [Consumer Financial Protection Bureau (CFPB) Public Data Inventory](https://www.consumerfinance.gov/data-research/consumer-complaints/).
 
 This project uses a large dataset including the following versions:
 
@@ -17,7 +17,7 @@ This project uses a large dataset including the following versions:
 ![Domain](https://img.shields.io/badge/Domain-Consumer%20Finance%20%26%20Compliance-navy)
 
 ## 📌 Executive Summary
-An end-to-end analytics pipeline and business intelligence system built on **15.74 million** Consumer Financial Protection Bureau (CFPB) complaint records (2021–2026). The project evaluates financial institution accountability, regulatory Service Level Agreement (SLA) turnaround compliance, and dispute concentration across products and US jurisdictions.
+An end-to-end analytics pipeline and business intelligence system built on **15.74 million** Consumer Financial Protection Bureau (CFPB) complaint records (2021-2026). The project evaluates financial institution accountability, regulatory Service Level Agreement (SLA) turnaround compliance, and dispute concentration across products and US jurisdictions.
 
 ---
 
@@ -72,3 +72,12 @@ An end-to-end analytics pipeline and business intelligence system built on **15.
                   │
                   ▼
 [Power BI Desktop: Star-Schema Semantic Model, DAX Measures, Cross-filtering]
+
+```
+## Tech Stack
+
+- Storage & Processing: Python (pandas, matplotlib, pyarrow, fastparquet), Google Colab, Parquet.
+
+- SQL Engine: DuckDB (In-memory columnar execution, analytical window functions, CTEs).
+
+- Business Intelligence: Power BI (DAX, Power Query, Shape Maps, Interactive Cross-Filtering).
