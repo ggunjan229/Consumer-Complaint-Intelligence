@@ -1,4 +1,4 @@
-# Consumer Complaint Intelligence System (CFPB)
+# Consumer Complaint Intelligence System
 ### Enterprise Data Pipeline, SQL Analytics & Institutional Risk Dashboard
 
 ## Datasets
