@@ -17,7 +17,7 @@ This project uses a very large dataset including the following versions:
 ![Domain](https://img.shields.io/badge/Domain-Consumer%20Finance%20%26%20Compliance-navy)
 
 ## 📌 Executive Summary
-An end-to-end analytics pipeline and business intelligence system built on **15.74 million** Consumer Financial Protection Bureau (CFPB) complaint records (2021-2026). The project evaluates financial institution accountability, regulatory Service Level Agreement (SLA) turnaround compliance, and dispute concentration across products and US jurisdictions.
+An end-to-end analytics pipeline and business intelligence system built on **15.74 million**. Consumer Financial Protection Bureau (CFPB) complaint records (2021-2026). The project evaluates financial institution accountability, regulatory Service Level Agreement (SLA) turnaround compliance, and dispute concentration across products and US jurisdictions.
 
 ---
 
